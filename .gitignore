@@ -1,0 +1,29 @@
+#auto dir
+/.vs/
+/obj/
+/Packages/
+/UserSettings/
+/Temp/
+/Logs/
+/Library/
+/ProjectSettings/
+
+*/Debug/
+*/x86/
+*/x64/
+
+#my dir
+/Build/
+/Build_GL/
+
+#auto file
+*.sln
+*.csproj
+*.DS_Store
+
+
+*.user
+
+
+#myfile
+*.zip
